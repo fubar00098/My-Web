@@ -136,7 +136,7 @@ a:after {
 }
 
 #hello h1 {
-	font-size: 90px;
+	font-size: 50px;
 	font-weight: 700;
 	letter-spacing: 3px;
 	text-decoration:none; 
@@ -292,12 +292,13 @@ color:#ffffff;
 	color: white;
 	font-weight: 400;
 	margin-bottom: 35px;
+    font-size: 40px;
 }
 
 #green p {
 	color: white;
-	font-weight: 400;
-	font-size: 20px;
+	font-weight: 500;
+	font-size: 25px;
 }
 
 .m-button { margin-top: 5em; } .m-button-top { margin-top: 1.58em; } .p-bottom { padding-bottom: 3em; } .p-bottom-5 { padding-bottom: 6em !important; } .m-img-top { margin-top: 1.4em; }
@@ -367,12 +368,12 @@ color:#ffffff;
 /* Social Links */
 #social {
 	width: 100%;
-	padding-top: 200px;
-	padding-bottom: 200px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 }
 
 #social i {
-	font-size: 50px;
+	font-size: 80px;
 	color: #74cfae;
 }
 
